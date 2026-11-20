@@ -12,6 +12,10 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 * ✨ Add HTTP routing foundation. Commit [`8882b12`](https://github.com/cappucci-no/mino/commit/8882b12ec6b4922d34eeb12bed639fcd7c25c7ca).
 * ✨ Add composable middleware chains. Commit [`d30e2ec`](https://github.com/cappucci-no/mino/commit/d30e2ec836a2e466e3c33e3c7c9cad6e44609b7a).
 
+### Docs
+
+* 📝 Add contributing and security guidelines. Commit [`4f382c0`](https://github.com/cappucci-no/mino/commit/4f382c0f76aee17ab04d9a900f96b3018c43f556).
+
 ### Internal
 
 * 🙈 Add Git attributes and ignore rules. Commit [`ce9bad4`](https://github.com/cappucci-no/mino/commit/ce9bad4327d5f42f1934b0b526e2e0fae997fc90).
