@@ -4,6 +4,10 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ## Latest Changes
 
+### Features
+
+* ✨ Add composable middleware chains. Commit [`d30e2ec`](https://github.com/cappucci-no/mino/commit/d30e2ec836a2e466e3c33e3c7c9cad6e44609b7a).
+
 ### Internal
 
 * 🙈 Add Git attributes and ignore rules. Commit [`ce9bad4`](https://github.com/cappucci-no/mino/commit/ce9bad4327d5f42f1934b0b526e2e0fae997fc90).
