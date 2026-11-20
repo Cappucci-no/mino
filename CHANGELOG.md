@@ -6,6 +6,7 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ### Features
 
+* ✨ Add HTTP routing foundation. Commit [`8882b12`](https://github.com/cappucci-no/mino/commit/8882b12ec6b4922d34eeb12bed639fcd7c25c7ca).
 * ✨ Add composable middleware chains. Commit [`d30e2ec`](https://github.com/cappucci-no/mino/commit/d30e2ec836a2e466e3c33e3c7c9cad6e44609b7a).
 
 ### Internal
