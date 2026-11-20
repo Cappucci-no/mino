@@ -6,6 +6,7 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ### Features
 
+* ✨ Add struct binding and Deref helpers. Commit [`4c4a6d6`](https://github.com/cappucci-no/mino/commit/4c4a6d6b2d44a3ea26d10012529f61ce4f01b6c7).
 * ✨ Add reusable error handling utilities. Commit [`f5cd42f`](https://github.com/cappucci-no/mino/commit/f5cd42f500ac42c6c297d58465d6ca5a304ecd26).
 * ✨ Add JSON codec and helpers. Commit [`ba05d97`](https://github.com/cappucci-no/mino/commit/ba05d972386eb7d2cfd2c53698d7fc55890178cd).
 * ✨ Add HTTP routing foundation. Commit [`8882b12`](https://github.com/cappucci-no/mino/commit/8882b12ec6b4922d34eeb12bed639fcd7c25c7ca).
