@@ -4,6 +4,8 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ## Latest Changes
 
+## 0.1.0 (2026-11-20)
+
 ### Features
 
 * ✨ Add request size limit middleware. Commit [`091cdf6`](https://github.com/cappucci-no/mino/commit/091cdf6e968261ef5a81dcfb5e84b33c30079226).
