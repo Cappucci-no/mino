@@ -6,6 +6,7 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ### Features
 
+* ✨ Add request size limit middleware. Commit [`091cdf6`](https://github.com/cappucci-no/mino/commit/091cdf6e968261ef5a81dcfb5e84b33c30079226).
 * ✨ Add request timeout middleware. Commit [`f779705`](https://github.com/cappucci-no/mino/commit/f779705c3a75bdd600d959de5f7ab6085a66a61f).
 * ✨ Add access logging and panic recovery middleware. Commit [`135e7e4`](https://github.com/cappucci-no/mino/commit/135e7e4118cb097327442b6b8e18435ce89ceefc).
 * ✨ Add HTTP request and response helpers. Commit [`b22547d`](https://github.com/cappucci-no/mino/commit/b22547dab3f98b305012042e77b5b0f71d05ea50).
