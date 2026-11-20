@@ -6,6 +6,7 @@ Changes are grouped by category. Each entry links to the commit that introduced 
 
 ### Features
 
+* ✨ Add access logging and panic recovery middleware. Commit [`135e7e4`](https://github.com/cappucci-no/mino/commit/135e7e4118cb097327442b6b8e18435ce89ceefc).
 * ✨ Add HTTP request and response helpers. Commit [`b22547d`](https://github.com/cappucci-no/mino/commit/b22547dab3f98b305012042e77b5b0f71d05ea50).
 * ✨ Add struct binding and Deref helpers. Commit [`4c4a6d6`](https://github.com/cappucci-no/mino/commit/4c4a6d6b2d44a3ea26d10012529f61ce4f01b6c7).
 * ✨ Add reusable error handling utilities. Commit [`f5cd42f`](https://github.com/cappucci-no/mino/commit/f5cd42f500ac42c6c297d58465d6ca5a304ecd26).
